@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+}
+
+.container {
+  background-color: white;
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+
+.header {
+  text-align: center;
+  color: black;
+}
+
+.name {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+}
+
+.hobby1 {
+  align-self: center;
+  position: relative;
+  background-color: #ffaaab;
+  width: 60vw;
+  margin-left: 20%;
+  margin-right: 25%;
+  margin-top: 20px;
+  border: 3px solid black;
+
+
+}
+
+img {
+  width: 60%;
+  margin-left: 20%;
+  height: 100%;
+  border: 3px solid black;
+  background-color: transparent;
+}
+
+.hobbyDesc {
+  margin-top: 20px;
+  margin: 10px 10px 10px 10px;
+  position: relative;
+  margin-bottom: 10px;
+}
+
+p {
+  position: relative;
+
+}
